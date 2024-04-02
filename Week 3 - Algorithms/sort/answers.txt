@@ -1,0 +1,20 @@
+sort1 uses: bubble sort
+
+How do you know?: for the random50000.txt it it very fast.
+        Results:
+        random 50,000 - 5.702s
+        sorted 50,000 - 0.739s
+
+sort2 uses: merge soft
+
+How do you know?: for the random50000.txt it is the faster.
+        Results:
+        random 50,000 - 0.537s
+        sorted 50,000 - 0.664s
+
+sort3 uses: selection sort
+
+How do you know?:  It is slower than Merge Sort, and also slower than Bubble Sort when sorting sorted list.
+        Results:
+        random 50,000 - 2.308s
+        sorted 50,000 - 2.650s
