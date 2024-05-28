@@ -1,0 +1,8 @@
+ I'll use the parameters provided in songs like danceability, energy, loudness, tempo to characterise the aura
+
+Question:
+If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+
+Answer:
+-If user prefer high-energy, danceable songs with positive vibes, which could indicate a preference for upbeat and happy music.
+-Key column could be very important. Because different keys make songs feel special and full of emotions.
