@@ -1,3 +1,3 @@
-<h2 tabindex="-1" class="heading-element" dir="auto">Problem</h2>
+## Problem
 
 https://cs50.harvard.edu/x/2023/labs/1/
